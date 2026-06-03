@@ -1,4 +1,4 @@
-# Linux System Hardening - User Account Security
+# Linux System Hardening
 
 ### Overview
 This document explores techniques used to improve Linux system security.
