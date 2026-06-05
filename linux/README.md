@@ -67,3 +67,13 @@ This document explores techniques used to improve Linux system security.
 
 
 ## Task 2 - Firewall
+
+With firewall we can monitor and filter out the incoming and outgoing data traffic. 
+
+#### Here is the best practices
+  * Enforce default deny policy. ( sudo ufw default deny incoming )
+  * Allow only the ports and services you actually need.
+  * Enable logging for denied connections to help detect scans and attacks.
+  * Review logs regularly.
+  * Regularly Review and Update Rules
+
